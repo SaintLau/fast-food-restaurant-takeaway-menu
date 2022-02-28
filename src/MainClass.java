@@ -5,7 +5,7 @@ public class MainClass {
     private String $contact_Number;
     private double fullPrice;
 
-    private void setFull_Name(String full_Name) {
+    public void setFull_Name(String full_Name) {
         this.full_Name = full_Name;
     }
 

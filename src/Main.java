@@ -33,5 +33,19 @@ public class Main {
     public static double $onionRings = 3.65;
     public static double $breadStix = 1.85;
 
-    
+    public static void main(String[] args) {
+        full_Name = JOptionPane.showInputDialog(null, "Please, enter your full name");
+        mc.setFull_Name(full_Name);
+
+        contactNumber = JOptionPane.showInputDialog(null, "Please, enter contact number");
+        mc.set$contact_Number(contactNumber);
+
+        $food_choice = Integer.valueOf(JOptionPane.showInputDialog(null, "Please choose an item below: " +
+                "\n1. Burger" +
+                "\n2. Pasta" +
+                "\n3. Taco"
+                ));
+
+
+    }
 }

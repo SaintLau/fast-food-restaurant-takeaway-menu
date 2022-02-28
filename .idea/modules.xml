@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FastFoodRestaurantTakeawayMenu.iml" filepath="$PROJECT_DIR$/FastFoodRestaurantTakeawayMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFoodOrderConsoleProgram.iml" filepath="$PROJECT_DIR$/JavaFoodOrderConsoleProgram.iml" />
     </modules>
   </component>
 </project>
